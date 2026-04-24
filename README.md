@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Lakshmanna</h1>
+<h1 align="center">Hi, I'm Lakshmanna</h1>
 <h3 align="center">Software Engineer</h3>
 
 ---
@@ -32,6 +32,14 @@
 ---
 
 ## 📂 Projects
+
+##  Movie Collection App
+- 🔐 User Authentication (Login & Sign Up)
+- 🎥 Search movies using OMDb API
+- 🖼️ Display movie posters
+- 📝 Show movie title, year, and type
+- 📱 Responsive movie card layout
+- 🔎 Real-time search functionality
 
 ### 🏦 Banking Application (Java + JDBC + MySQL)
 - Account Creation, Deposit, Withdraw, Fund Transfer
@@ -69,8 +77,8 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 📧 Email: *(Add your email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/lakshmanna-kuruva-749250334/
+- 📧 Email: kuruvalakshmanna4154@gmail.com
 
 ---
 
