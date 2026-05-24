@@ -1,91 +1,146 @@
-<h1 align="center">Hi, I'm Lakshmanna</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Lakshmanna Kuruva</h1>
+<h3 align="center">Aspiring Java Developer | Software Developer | BTech CSE Graduate</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech (CSE)
-- 💻 Passionate about Java, Python & Web Development
-- 🚀 Interested in Full Stack Development & Backend Systems
-- 📚 Currently learning React, Redux & Advanced Java
-- 🎯 Goal: To become a skilled Software Engineer
+I am a recently graduated **BTech Computer Science and Engineering** student with a strong interest in **Java Development, Backend Development, and Full Stack Development**.
+
+I enjoy building practical projects that improve my programming knowledge, problem-solving skills, and real-time development understanding. I am passionate about learning new technologies, writing clean code, and growing as a professional software developer.
+
+- 🎓 Recently graduated with **BTech in Computer Science and Engineering**
+- 💻 Aspiring **Java Developer / Software Developer**
+- 🌱 Currently improving my skills in **Core Java, JDBC, MySQL, SQL, HTML, CSS, JavaScript, and React**
+- 🔥 Building projects through my **45-Day Java Backend Challenge**
+- 🎯 Goal: To start my career as a skilled and dedicated software developer
+- 🤝 Open to entry-level opportunities, internships, and learning-based collaborations
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 - Java
 - Python
 - SQL
 
-### 🌐 Web Technologies
+### Backend Technologies
+- Core Java
+- JDBC
+- OOPs
+- Exception Handling
+- File Handling
+
+### Web Technologies
 - HTML
 - CSS
 - JavaScript
-- React (Learning)
+- React.js
 
-### 🗄️ Database
+### Database
 - MySQL
 
----
-
-## 📂 Projects
-
-##  Movie Collection App
-- 🔐 User Authentication (Login & Sign Up)
-- 🎥 Search movies using OMDb API
-- 🖼️ Display movie posters
-- 📝 Show movie title, year, and type
-- 📱 Responsive movie card layout
-- 🔎 Real-time search functionality
-
-### 🏦 Banking Application (Java + JDBC + MySQL)
-- Account Creation, Deposit, Withdraw, Fund Transfer
-- Transaction History
-- Real-time database interaction using JDBC
-- Exception Handling implemented
-
----
-
-## 🔧 Tools & Technologies
-
+### Tools & Platforms
 - Eclipse IDE
 - VS Code
 - MySQL Workbench
-- Git & GitHub
+- Git
+- GitHub
 - Postman
+
+---
+
+## 🚀 Projects
+
+### 🎬 Movie Collection App
+A web-based movie search application where users can search and explore movies using API integration.
+
+**Key Features:**
+- User Login and Sign Up
+- Movie search using OMDb API
+- Displays movie posters, title, year, and type
+- Responsive movie card layout
+- Real-time search functionality
+
+**Tech Stack:** HTML, CSS, JavaScript, OMDb API
+
+---
+
+### 🏦 Banking Application
+A console-based banking application developed using Java, JDBC, and MySQL.
+
+**Key Features:**
+- Account creation
+- Deposit and withdrawal
+- Balance checking
+- Fund transfer
+- Transaction history
+- Database connectivity using JDBC
+- Exception handling for invalid operations
+
+**Tech Stack:** Java, JDBC, MySQL
+
+---
+
+### 🏥 Hospital Management System
+A Java-based console application designed to manage hospital-related operations.
+
+**Key Features:**
+- Add patient details
+- Manage doctor information
+- Appointment booking
+- Billing management
+- Uses OOP concepts and collections
+
+**Tech Stack:** Java, OOPs, Collections, Exception Handling
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot Basics
+- React.js
+- SQL Query Practice
+- Data Structures and Algorithms using Java
+
+---
+
+## 📌 My Goals
+
+- Improve backend development skills
+- Build real-time Java projects
+- Strengthen problem-solving using DSA
+- Contribute to GitHub consistently
+- Get placed as a Java Developer / Software Developer
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KURUVALAKSHMANNA&show_icons=true&theme=tokyonight" />
-</p>
+![Lakshmanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KURUVALAKSHMANNA&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KURUVALAKSHMANNA&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KURUVALAKSHMANNA&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lakshmanna-kuruva-749250334/
-- 📧 Email: kuruvalakshmanna4154@gmail.com
+- LinkedIn: [Lakshmanna Kuruva](https://www.linkedin.com/in/lakshmanna-kuruva-749250334/)
+- Email: kuruvalakshmanna4154@gmail.com
+- GitHub: [KURUVALAKSHMANNA](https://github.com/KURUVALAKSHMANNA)
 
 ---
 
 ## ✨ Quote
 
-> "Consistency is the key to success 💪"
+> "Consistency, hard work, and continuous learning can turn a beginner into a professional developer."
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+⭐ Thank you for visiting my profile!
