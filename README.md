@@ -31,12 +31,14 @@ I enjoy building practical projects that improve my programming knowledge, probl
 - OOPs
 - Exception Handling
 - File Handling
+- Hibernate Basics
+- Spring Boot Basics
 
 ### Web Technologies
 - HTML
 - CSS
 - JavaScript
-- React.js
+- React.js Basics
 
 ### Database
 - MySQL
@@ -100,9 +102,9 @@ A Java-based console application designed to manage hospital-related operations.
 ## 📚 Currently Learning
 
 - Advanced Java
-- Spring Boot Basics
+- Hibernate 
+- Spring and Spring Boot 
 - React.js
-- SQL Query Practice
 - Data Structures and Algorithms using Java
 
 ---
