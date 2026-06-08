@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshmanna Kuruva</h1>
+<h1 align="center">Hi 👋, I'm Kuruva Lakshmanna</h1>
 <h3 align="center">Aspiring Java Developer | Software Developer | BTech CSE Graduate</h3>
 
 
@@ -106,7 +106,6 @@ A personal portfolio website to showcase my skills, projects, certifications, an
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KURUVALAKSHMANNA&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KURUVALAKSHMANNA&theme=tokyonight)
 
 ---
 
