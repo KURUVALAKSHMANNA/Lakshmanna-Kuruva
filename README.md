@@ -44,6 +44,7 @@ I am a B.Tech Computer Science student passionate about building software applic
 * VS Code
 * MySQL Workbench
 * Postman
+* 
 * Git & GitHub
 
 ---
